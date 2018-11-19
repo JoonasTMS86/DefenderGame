@@ -1,3 +1,5 @@
+// Joonas's Defender (C) 2018 Joonas Lindberg.
+
 #define SDL_MAIN_HANDLED
 #include <SDL.h>
 #include <SDL_mixer.h>
